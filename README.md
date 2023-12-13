@@ -1,2 +1,2 @@
 # FrontEndStore
-Link:https://jpgl-rockedmfestival.netlify.app
+Link:https://jpgl-frontend-store.netlify.app
